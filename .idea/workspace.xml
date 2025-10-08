@@ -28,25 +28,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/robbe/OneDrive/Documenten/GitHub/webdevelopment/src/main.js",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/robbe/OneDrive/Documenten/GitHub/webdevelopment/src/main.js&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Images" />
+      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Labo_3\Images" />
       <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment" />
       <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Labo_2\Images" />
     </key>
@@ -67,6 +69,10 @@
       <updated>1759240336244</updated>
       <workItem from="1759240337155" duration="2721000" />
       <workItem from="1759321250493" duration="6922000" />
+      <workItem from="1759583822220" duration="3901000" />
+      <workItem from="1759742736489" duration="1505000" />
+      <workItem from="1759758975627" duration="4742000" />
+      <workItem from="1759936144071" duration="740000" />
     </task>
     <servers />
   </component>

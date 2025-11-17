@@ -16,32 +16,27 @@ table.calendar th {
     padding: 8px;
 }
 
-/* --- Month Header --- */
 .month-header th {
     background: rgb(170, 170, 200);
     font-size: 24px;
     padding: 10px;
 }
 
-/* --- Day Header --- */
 .day-header th {
     background: rgb(35, 37, 70);
     color: rgb(200, 190, 240);
 }
 
-/* --- Previous/Next month days --- */
 .prev-month,
 .next-month {
     color: gray;
 }
 
-/* --- Weekend coloring using :first-child and :last-child --- */
 tbody tr td:first-child,
 tbody tr td:last-child {
     background: rgb(255, 220, 220);
 }
 
-/* --- Holidays --- */
 .holiday {
     background: rgb(250, 120, 120);
 }

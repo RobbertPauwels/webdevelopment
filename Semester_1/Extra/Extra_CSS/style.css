@@ -1,0 +1,64 @@
+
+
+.caption {
+    font-family: helvetica;
+    font-size: 16px;
+    margin-top: 12px;
+}
+
+    .gridHeader {
+        background-color: #dcd6fe;
+        grid-area: header;
+    }
+
+    .gridNav {
+        background-color: #c6c0ff;
+        grid-area: nav;
+    }
+
+    .gridMain {
+        background-color: #f9f6d2;
+        grid-area: main;
+    }
+
+    .gridAside {
+        background-color: #d4ffd1;
+        grid-area: aside;
+    }
+
+    .gridFooter {
+        background-color: #ffd1d1;
+        grid-area: footer;
+    }
+
+    .grid {
+        display: grid;
+        min-height: 100vh;
+        text-align: center;
+
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto 1fr auto auto;
+
+        grid-template-areas:
+    "header"
+    "nav"
+    "main"
+    "aside"
+    "footer";
+    }
+
+@media (min-width: 786px) {
+    .grid {
+        min-height: 800px;
+
+        grid-template-columns: 200px 1fr 200px;
+        grid-template-rows: auto 1fr auto;
+
+        grid-template-areas:
+      "header header header"
+      "nav    main   aside"
+      "footer footer footer";
+    }
+}
+
+

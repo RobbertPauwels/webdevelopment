@@ -1,0 +1,24 @@
+body {
+    font-family: system-ui, Arial, sans-serif;
+    line-height: 1.5;
+    margin: 2rem;
+}
+
+.buttons { display: flex;
+    gap: 1rem;
+}
+
+.kleurknop {
+    padding: .6rem 1rem;
+    border: 2px solid #000;
+    border-radius: .5rem;
+    background: #fff; color: #000;
+    cursor: pointer; transition: background-color .2s, color .2s;
+}
+
+
+.kleurknop.blauw {
+    background: #1976d2;
+    color: #fff;
+    border-color: #1976d2;
+}

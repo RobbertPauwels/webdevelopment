@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -36,38 +36,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/robbe/OneDrive/Documenten/GitHub/webdevelopment/Semester_2&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/robbe/OneDrive/Documenten/GitHub/webdevelopment/src/main.js&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/robbe/OneDrive/Documenten/GitHub/webdevelopment/Semester_2/Labo_21/CSS",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/robbe/OneDrive/Documenten/GitHub/webdevelopment/src/main.js",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2\Labo_21\CSS" />
+      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2\Labo_21\Scripts" />
+      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2\Labo_21" />
       <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2" />
       <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2\Labo_13\CSS" />
-      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2\Labo_13\Scripts" />
-      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2\Labo_13" />
-      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment" />
-      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_1" />
+      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2\Labo_21\Scripts" />
+      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2\Labo_21" />
+      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2\Labo_18\Scripts" />
+      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2\Labo_18" />
+      <recent name="C:\Users\robbe\OneDrive\Documenten\GitHub\webdevelopment\Semester_2\Labo_15\CSS" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Substring.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="Substring.js" working-dir="$PROJECT_DIR$/Semester_2/Labo_14/Scripts">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -122,7 +130,22 @@
       <workItem from="1770645831671" duration="2066000" />
       <workItem from="1770806064608" duration="3796000" />
       <workItem from="1770817847190" duration="1362000" />
-      <workItem from="1771075631167" duration="6380000" />
+      <workItem from="1771075631167" duration="7327000" />
+      <workItem from="1771090118618" duration="2544000" />
+      <workItem from="1772038185944" duration="10633000" />
+      <workItem from="1772457520352" duration="5246000" />
+      <workItem from="1772558421860" duration="3667000" />
+      <workItem from="1772618639371" duration="5942000" />
+      <workItem from="1773163215142" duration="3434000" />
+      <workItem from="1773678008355" duration="4573000" />
+      <workItem from="1773772220145" duration="7285000" />
+      <workItem from="1774097459087" duration="10850000" />
+      <workItem from="1774283055421" duration="6805000" />
+      <workItem from="1774630708151" duration="13180000" />
+      <workItem from="1775304598104" duration="4836000" />
+      <workItem from="1775729121867" duration="9736000" />
+      <workItem from="1775921090059" duration="19928000" />
+      <workItem from="1776848986811" duration="2873000" />
     </task>
     <servers />
   </component>

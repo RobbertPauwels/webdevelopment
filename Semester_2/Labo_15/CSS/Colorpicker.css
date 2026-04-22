@@ -1,0 +1,16 @@
+body {
+    font-family: system-ui, Arial, sans-serif;
+    line-height: 1.5;
+    margin: 2rem;
+}
+
+.controls
+{ display: grid;
+    gap: .5rem;
+    max-width: 320px;
+}
+.swatch {
+    width: 240px; height: 120px;
+    margin-top: 1rem;
+    border: 1px solid #bbb;
+}

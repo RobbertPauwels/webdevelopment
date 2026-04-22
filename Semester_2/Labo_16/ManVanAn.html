@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Man van An</title>
+</head>
+<body>
+    <label for="tekst">
+        Tekst:
+    </label>
+    <input
+            id="tekst"
+            type="text"
+            value="De man van An geeft geen hand aan ambetante verwanten"
+    />
+
+    <label for="zoek">
+        Te zoeken sequentie
+    </label>
+    <input id="zoek" type="text" value="an" />
+
+    <div class="buttons">
+        <button id="btn-indexof">Tel met indexOf</button>
+        <button id="btn-lastindexof">Tel met lastIndexOf</button>
+    </div>
+
+    <div class="result" id="output" aria-live="polite"></div>
+
+    <script src="Scripts/ManVanAn.js"></script>
+
+</body>
+</html>
